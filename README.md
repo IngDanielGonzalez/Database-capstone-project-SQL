@@ -1,1 +1,1 @@
-setting up repository for project
+In this project, we'll leverage multiple queries to efficiently explore and automate database operations as part of my certification in database engineering from Meta Improve. We aim to optimize data retrieval and management processes through systematic querying and automation techniques.
